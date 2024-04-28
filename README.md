@@ -28,17 +28,17 @@ The company would like to understand the significant factors that are important 
 
 ## Technologies Used
 - Python - 3.11.5
-- Pandas - 2.0.3
 - matplotlib - 3.7.2
+- Pandas - 2.0.3
 - seaborn - 0.12.2
 
 ## Acknowledgements
 Give credit here.
-- This project was based on Surprise Housing Regression model Assignment from upgrad.com
+- The problem statement was from the Upgrad.
 
 
 ## Contact
-Created by [@kvkirankumaraiml] - feel free to contact me!
+Created by [@kalyanvkb] - feel free to contact me!
 
 
 <!-- Optional -->
