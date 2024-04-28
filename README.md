@@ -1,8 +1,8 @@
 # Surprise Housing Regression Assignment
 > Problem Statement
-A US-based housing company named Surprise Housing company wants to use data analytics to purchase houses at a price below their actual values and flip them on at a higher price. The goal is to build a regression model using regularisation in order to predict the actual value of the prospective properties using a data set comprised of sale details of houses in Australia.
+US Based housing company Surprise housing planning to enter into Australian market with an intent to purchase houses below their fair value and sell them in profits. Goal is to build the regression model to predict the fair value prices using regularization techniques learnt in the course.
 
-As a result, The company wants to understand which variables are significant in predicting the price of a house and how well those variables describe the price of a house.
+The company would like to understand the significant factors that are important in predicting the price of a house and the weightage of these fields.
 
 
 ## Table of Contents
@@ -12,19 +12,18 @@ As a result, The company wants to understand which variables are significant in 
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
-- Surprise Housing company wants to predict the price of a house by providing various features of a house.
+- Surprise Housing wanted to predict the price of a house using the data set and ML model.
 - Problem Statement
-	- understand which variables are significant in predicting the price of a house, and
-	- How well those variables describe the price of a house.
+	- understand the features of the house that are significant in pricing the house.
+	- weightage of these fields/features in the pricing of a house.
 - Datasets used: 
-  Surprise Housing Dataset, that contains the records of sales of houses made in Australia.
+  Surprise Housing Dataset provided by upgrade
 	
 ## Conclusions
-- Linear Regression, Ridge and Lasso models are built and assessed to determine the most optimal model
-- From the evaluation metrics of all the three, Lasso appears simpler and more optimized with better results on unknown data.
-- By analyzing more the model parameters, its observed that the Housing customers are concerned about Neighborhood, sq.ft area of ground floor, 1st floor, 2nd floor etc.
-- Size of the Garage also is an important factor.
-- Build quality of basement, Foundation, exterior, Overall Quality of the house, House Style etc are important factors.
+- RIDGE and LASSO regression models along with Linear Regressionare evaluated and models were build to predict the variables that are consitituting to the house pricing significantly.
+- After building the moderl, the summary is that the Housing customers are interested in Neighborhood, sq.ft area of ground floor, 1st floor, 2nd floor and these fields consititure the pricing of the house heavily
+- Lasso seems to be simpler and more optimized with better results on unknown data.
+- Size of the Garage, Build quality of basement, Foundation, exterior, Overall Quality of the house, House Style decide the pricing more than other fields of the house.
 
 
 ## Technologies Used
